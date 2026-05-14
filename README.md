@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oznergiz-irmak/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
+  <a href="linkedin.com/in/oznergiz-irmak"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
   <a href="mailto:oznergizirmak@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
 </p>
 
