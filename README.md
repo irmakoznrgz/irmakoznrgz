@@ -1,13 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Oznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Data%20%26%20AI&descSize=16&descColor=9CA3AF&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Oznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Data%20and%20AI&descSize=16&descColor=9CA3AF&descAlignY=70)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Statistics+Student+at+Ankara+University;Building+Data-Driven+Backends;Python,+PostgreSQL,+FastAPI" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/oznergiz-irmak"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
-  <a href="mailto:oznergizirmak@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/oznergiz-irmak)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:oznergizirmak@gmail.com)
+
+</div>
 
 ---
 
@@ -46,7 +48,8 @@ I am a 3rd-year Statistics student at Ankara University. I specialize in backend
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/irmakoznrgz/irmakoznrgz/main/analytics_combined.png" alt="GitHub Analytics for Irmak Öznergiz" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irmakoznrgz&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmakoznrgz&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakNum=ffffff" alt="GitHub Streak" height="150" />
 </div>
 
 <br/>
