@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Oznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Statistics%20%7C%20Backend%20%7C%20Data&AI&descSize=16&descColor=9CA3AF&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Oznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Data%20%26%20AI&descSize=16&descColor=9CA3AF&descAlignY=70)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Ankara+University+Statistics+Student;Building+Data-Driven+Backends;Python,+PostgreSQL,+FastAPI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Statistics+Student+at+Ankara+University;Building+Data-Driven+Backends;Python,+PostgreSQL,+FastAPI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -46,8 +46,7 @@ I am a 3rd-year Statistics student at Ankara University. I specialize in backend
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irmakoznrgz&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmakoznrgz&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://raw.githubusercontent.com/irmakoznrgz/irmakoznrgz/main/analytics_combined.png" alt="GitHub Analytics for Irmak Öznergiz" width="100%" />
 </div>
 
 <br/>
