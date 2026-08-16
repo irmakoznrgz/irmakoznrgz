@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/oznergiz-irmak)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:oznergizirmak@gmail.com)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA)](https://mail.google.com/mail/?view=cm&fs=1&to=oznergizirmak@gmail.com)
 
 </div>
 
