@@ -13,7 +13,7 @@
 
 ### About Me
 
-I am a 2nd-year Statistics student at Ankara University. I specialize in backend development and data science, focusing on creating efficient architectures and extracting meaningful insights from complex datasets. My approach to development relies on clean code, robust database management, and scalable API designs.
+I am a 3nd-year Statistics student at Ankara University. I specialize in backend development and data science, focusing on creating efficient architectures and extracting meaningful insights from complex datasets. My approach to development relies on clean code, robust database management, and scalable API designs.
 
 ---
 
