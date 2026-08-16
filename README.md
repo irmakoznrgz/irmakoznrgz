@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/oznergiz-irmak"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/oznergiz-irmak"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
   <a href="mailto:oznergizirmak@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
 </p>
 
@@ -13,19 +13,21 @@
 
 ### About Me
 
-I am a 3nd-year Statistics student at Ankara University. I specialize in backend development and data science, focusing on creating efficient architectures and extracting meaningful insights from complex datasets. My approach to development relies on clean code, robust database management, and scalable API designs.
+I am a 3rd-year Statistics student at Ankara University. I specialize in backend development and data science, focusing on creating efficient architectures and extracting meaningful insights from complex datasets. My approach to development relies on clean code, robust database management, and scalable API designs.
 
 ---
 
 ### Technical Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Web_Scraping-111827?style=for-the-badge&logo=python&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=A78BFA" alt="React" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-111827?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=google&logoColor=A78BFA" alt="LLM" />
 </p>
 
 ---
@@ -34,10 +36,10 @@ I am a 3nd-year Statistics student at Ankara University. I specialize in backend
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
+| **AI Tech Career Assistant** | An AI-powered assistant utilizing LLM and RAG for tech career guidance. | [Repository](https://github.com/irmakoznrgz/AI-Tech-Career-Assistant) |
+| **A/B Test Simulation Engine** | A robust simulation engine designed for statistical A/B testing scenarios. | [Repository](https://github.com/irmakoznrgz/ab-test-simulation-engine) |
 | **Spotify Analytics Backend** | A backend system for parsing and analyzing Spotify data efficiently. | [Repository](https://github.com/irmakoznrgz/spotify-analytics-backend) |
-| **CineMatch Recommendation Engine** | Core algorithm analyzing user preferences for movies and TV shows. | [Repository](https://github.com/irmakoznrgz/Movies-TV-Recommendation-System) |
-| **CineMatch v2** | The upgraded interface and backend logic for the CineMatch ecosystem. | [Repository](https://github.com/irmakoznrgz/CineMatch-v2) |
-| **Weather Dashboard** | A real-time data visualization dashboard using external weather APIs. | [Repository](https://github.com/irmakoznrgz/weather-dashboard) |
+| **CineMatch v2** | The upgraded interface and backend logic for the CineMatch recommendation ecosystem. | [Repository](https://github.com/irmakoznrgz/CineMatch-v2) |
 
 ---
 
