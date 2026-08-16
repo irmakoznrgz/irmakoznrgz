@@ -38,7 +38,7 @@ I am a 3rd-year Statistics student at Ankara University. I specialize in backend
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **AI Tech Career Assistant** | An AI-powered assistant utilizing LLM and RAG for tech career guidance. | [Repository](https://github.com/irmakoznrgz/AI-Tech-Career-Assistant) |
+| **AI Tech Career Assistant** | An AI-powered assistant utilizing LLM and RAG for tech career guidance. (https://tech-career-ai.vercel.app) | [Repository](https://github.com/irmakoznrgz/AI-Tech-Career-Assistant) |
 | **A/B Test Simulation Engine** | A robust simulation engine designed for statistical A/B testing scenarios. | [Repository](https://github.com/irmakoznrgz/ab-test-simulation-engine) |
 | **Spotify Analytics Backend** | A backend system for parsing and analyzing Spotify data efficiently. | [Repository](https://github.com/irmakoznrgz/spotify-analytics-backend) |
 | **CineMatch v2** | The upgraded interface and backend logic for the CineMatch recommendation ecosystem. | [Repository](https://github.com/irmakoznrgz/CineMatch-v2) |
