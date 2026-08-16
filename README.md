@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Öznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Statistics%20%7C%20Backend%20%7C%20Data%26AI&descSize=16&descColor=9CA3AF&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Irmak%20Oznergiz&fontSize=50&fontColor=A78BFA&fontAlignY=50&desc=Statistics%20%7C%20Backend%20%7C%20Data%EF%BC%86AI&descSize=16&descColor=9CA3AF&descAlignY=70)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Statistics+Student+at+Ankara+University;Building+Data-Driven+Backends;Python,+PostgreSQL,+FastAPI" alt="Typing SVG" /></a>
